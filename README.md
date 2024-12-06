@@ -9,3 +9,7 @@ Please follw below steps to install this (finalquad) project
 
 Note:
 I have attached project source code and output result (.png file ). 
+
+Note: Before "npm install" command if you get any error the please run these below command
+  1.Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
+  2.Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
